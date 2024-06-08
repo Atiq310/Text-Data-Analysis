@@ -1,0 +1,188 @@
+---
+title: "Topic_Modeling"
+author: "Atiq"
+format: html
+editor: visual
+---
+
+# Loading Libraries
+
+```{r,warning=FALSE,message=FALSE}
+library(tm)
+library(NLP)
+library(SnowballC)
+library(wordcloud)
+library(RColorBrewer)
+library(syuzhet)
+library(ggplot2)
+library(stringr)
+library(tidyverse)
+library(tidytext)
+library(topicmodels)
+library(tidyr)
+library(dplyr)
+library(slam)
+library(text)
+library(glmnet)
+library(caret)
+library(e1071)
+library(igraph)
+library(ggraph)
+library(visNetwork)
+library(LDAvis)
+library(textmineR)
+library(stringi)
+library(pdftools)
+library(rvest)
+```
+
+# Loading Files
+
+```{r}
+folder <- "C:\\Users\\Pc\\OneDrive - Higher Education Commission\\text_data_analysis\\economic_updates_2023_24"
+folder
+#Reading Files from Folder
+filelist <- list.files(path = folder)
+filelist <- paste(folder, "\\" ,filelist, sep="")
+typeof(filelist)
+```
+
+# corpus
+
+```{r,warning=FALSE}
+a <- lapply(filelist, FUN = readLines) # for readin line 
+corpus <- lapply(a, FUN = paste, collapse= " ")
+
+```
+
+# PreProcessing
+
+```{r}
+corpus2 <-gsub(pattern = "\\W", replace= " ",corpus) # to get rid of puntuations ,dots ets
+corpus2 <-gsub(pattern = "\\d", replace= " ",corpus2) # for digits
+corpus2 <- tolower(corpus2)
+
+
+# stopwords
+corpus2 <- removeWords(corpus2, stopwords("english"))
+
+# naw we remove single later words like  in document when view , there is alot of c d like words
+corpus2 <- gsub(pattern = "\\b[A-z]\\b[1]", replace= " ",corpus2)
+ 
+#naw geting rid of white spaces
+corpus2 <- stripWhitespace(corpus2)
+```
+
+# 1.Topic_model
+
+## 1.1 Creating document Term matrix
+
+```{r,warning=FALSE}
+DTM <- DocumentTermMatrix(corpus2)
+
+```
+
+## 1.2 Create Model with 4 Topics 
+
+```{r}
+Model_lda <- LDA(DTM, k=4,control = list(seed = 1234))
+Model_lda
+```
+
+## 1.3 Probability of word being associated to a topic
+
+```{r}
+beta_topics <- tidy(Model_lda, matrix = "beta") # creat the beta model
+beta_topics %>%   head(20)# show all the information in beta topic
+```
+
+## 1.4 Grouping the terms by topic
+
+```{r}
+beta_top_terms <- beta_topics %>% 
+  group_by(topic) %>% 
+  slice_max(beta, n = 10) %>% 
+  ungroup() %>% 
+  arrange(topic, -beta)
+beta_top_terms %>% head(10)
+```
+
+### 1.5 Display the grouped terms on the charts
+
+```{r,message=FALSE,warning=FALSE,echo=FALSE}
+#before cleaning if this message is display
+#Warning in gsub(reg, "", x) :
+ # unable to translate 'in<ef>___1' to a wide string
+#Error in gsub(reg, "", x) : input string 2 is invalid
+encoding_check <- stri_enc_isutf8(beta_top_terms$term)
+print(any(encoding_check == FALSE))
+# Convert to UTF-8 if needed
+beta_top_terms$term <- stri_encode(beta_top_terms$term, "", "UTF-8")
+beta_top_terms$term <- stri_replace_all_regex(beta_top_terms$term, "[^\\p{L}\\p{N}\\p{P}\\p{Z}]", " ")
+```
+
+```{r}
+beta_top_terms %>%
+  mutate(term = reorder_within(term, beta, topic)) %>%
+  ggplot(aes(beta, term, fill = factor(topic))) +
+  geom_col(show.legend = FALSE) +
+  facet_wrap(~ topic, scales = "free", ncol = 2) +  # Adjust the number of columns as needed
+  scale_y_reordered() +
+  labs(
+    title = "Top Terms by Topic",
+    subtitle = "Visualizing the top terms within each topic based on beta values",
+    x = "Beta Value",
+    y = "Terms",
+    caption = "Data Source: Economic Update"
+  ) +
+  theme_minimal(base_size = 15) +
+  theme(
+    plot.title = element_text(face = "bold", size = 18),
+    plot.subtitle = element_text(size = 14),
+    axis.title = element_text(face = "bold"),
+    strip.text = element_text(face = "bold", size = 14),
+    plot.caption = element_text(hjust = 0)
+  ) +
+  scale_fill_brewer(palette = "Set3")  # Using a more distinct color palette
+```
+
+## 1.6 Filtering terms by Topics
+
+```{r}
+tidy(DTM) %>% 
+  filter(document == 3) %>% 
+  arrange(desc(count))
+
+```
+
+## 1.7 Examining per document per topic probabilities
+
+```{r}
+gamma_documents <- tidy(Model_lda, matrix = "gamma")
+gamma_documents %>% head(20)
+```
+
+## 1.8 Create a data frame with gamma results
+
+```{r}
+doc_gamma.df <- data.frame(gamma_documents)
+doc_gamma.df$chapter <- rep(1: dim(DTM)[1],4)
+```
+
+## 1.9 plotting gamma results
+
+```{r,warning=FALSE}
+ggplot(data = doc_gamma.df, aes(x = chapter, y = gamma, 
+                                group = factor(topic), colour = factor(topic))) +
+  geom_line(size = 1) +  # Line thickness
+  geom_point(size = 2) +  # Points on the lines
+  facet_grid(rows = vars(factor(topic))) +  # Facet grid for better layout control
+  scale_colour_brewer(palette = "Dark2") +  # Custom color palette
+  theme_minimal(base_size = 15) +  # Minimal theme for a clean look
+  labs(title = "Gamma Values by Chapter and Topic",
+       x = "Chapter",
+       y = "Gamma",
+       colour = "Topic") +  # Titles and labels
+  theme(legend.position = "bottom",  # Move legend to the bottom
+        plot.title = element_text(hjust = 0.5))  # Center align the title
+```

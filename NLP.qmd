@@ -1,0 +1,172 @@
+---
+title: "Economic_Updates"
+author: "Atiq"
+format: html
+editor: visual
+---
+
+# Loading Libraries
+
+```{r,warning=FALSE, message=FALSE}
+library(tm)
+library(NLP)
+library(SnowballC)
+library(wordcloud)
+library(RColorBrewer)
+library(syuzhet)
+library(ggplot2)
+library(stringr)
+library(tidyverse)
+library(tidytext)
+library(topicmodels)
+library(tidyr)
+library(dplyr)
+library(slam)
+library(text)
+library(glmnet)
+library(caret)
+library(e1071)
+library(igraph)
+library(ggraph)
+library(visNetwork)
+library(LDAvis)
+library(textmineR)
+library(stringi)
+library(pdftools)
+library(rvest)
+```
+
+# Loading and Reading Data
+
+```{r}
+folder <- "C:\\Users\\Pc\\OneDrive - Higher Education Commission\\text_data_analysis\\economic_updates_2023_24"
+folder
+#Reading Files from Folder
+filelist <- list.files(path = folder)
+filelist <- paste(folder, "\\" ,filelist, sep="")
+typeof(filelist)
+```
+
+# Making Corpus
+
+```{r,warning=FALSE}
+a <- lapply(filelist, FUN = readLines) # for readin line 
+corpus <- lapply(a, FUN = paste, collapse= " ")
+corpus %>% head(2)
+```
+
+# Preprocessing
+
+```{r}
+corpus2 <-gsub(pattern = "\\W", replace= " ",corpus) # to get rid of puntuations ,dots ets
+corpus2 <-gsub(pattern = "\\d", replace= " ",corpus2) # for digits
+corpus2 <- tolower(corpus2)
+
+
+# stopwords
+corpus2 <- removeWords(corpus2, stopwords("english"))
+
+# naw we remove single later words like  in document when view , there is alot of c d like words
+corpus2 <- gsub(pattern = "\\b[A-z]\\b[1]", replace= " ",corpus2)
+ 
+#naw geting rid of white spaces
+corpus2 <- stripWhitespace(corpus2)
+```
+
+```{r}
+corpus2 %>% head(2)
+```
+
+# 1.NLP
+
+## 2.1 making Document Term Maktrix
+
+```{r}
+dtm <- TermDocumentMatrix(corpus2)
+m <- as.matrix(dtm)
+v <- sort(rowSums(m), decreasing = TRUE)
+d <- data.frame(frequency=v)
+d <- data.frame(word=names(v), frequency=v)
+head(d,20)
+```
+
+```{r}
+m %>% head(5)
+v %>% head(5)
+d %>% head(5)
+```
+
+## 2.2 frequent terms
+
+```{r}
+freq <- findFreqTerms(dtm,lowfreq = 10)
+freq %>% head(30)
+```
+
+## 2.3 frequent term association
+
+```{r}
+freq_asso <- findAssocs(dtm,terms = "economy", corlimit = 0.3) # checking for each distric
+freq_asso %>% head(10)
+```
+
+## 2.4 Plot most frequent words
+
+```{r}
+barplot(d[1:10,]$freq, las=2, names.arg = d[1:10,]$word,
+        col = "lightgreen", main = " Most frequent words in economic update document",
+        ylab = "word frequencies")
+```
+
+## 2.5 Generating Word cloud
+
+```{r}
+#Convert the encoding of the 'word' column to UTF-8
+d$word <- iconv(d$word, from = "latin1", to = "UTF-8")
+
+# Alternatively, remove non-UTF-8 characters
+d$word <- iconv(d$word, from = "latin1", to = "UTF-8", sub = "")
+
+#word Cloud
+set.seed(2024)
+wordcloud(words = d$word, freq = d$freq ,min.freq = 5,
+          max.words = 100, random.order = FALSE, rot.per = 0.40,
+          colors = brewer.pal(8,"Dark2"))
+```
+
+# 2.6 Getting Sentiments
+
+```{r}
+#syuzhet 
+syuzhet_vector <- get_sentiment(corpus2, method= "syuzhet") 
+summary(syuzhet_vector)
+```
+
+```{r}
+#being sentiments
+bing_vector <- get_sentiment(corpus2,method = "bing")
+summary(bing_vector)
+```
+
+```{r}
+#afinn sentiments
+afinn_vector <- get_sentiment(corpus2, method = "afinn")
+summary(afinn_vector)
+```
+
+```{r}
+document <- as.character(corpus2) # first convert corpus to character
+vector.nrc <- get_nrc_sentiment(document) #analyze text based on nrc lexicon
+df.nrc <- data.frame(t(vector.nrc)) #transpose
+#the function rowSums computes column sums across rows for each level of grouping.
+td_new <- data.frame(rowSums(df.nrc[1:3])) # check ncol(df.nrc) for ramge 
+
+#transformmation and cleaning
+names(td_new)[1] <- "count"
+td_new <- cbind("sentiment" = rownames(td_new),td_new)
+rownames(td_new) <- NULL
+td_new2 <- td_new[1:10,]
+
+#plot one-count of words associated with each sentiment
+quickplot(sentiment, data= td_new2, weight= count,geom="bar", fill= sentiment,ylab = "count") + ggtitle("economic montly outlook  sentiments")
+```

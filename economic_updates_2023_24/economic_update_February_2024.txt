@@ -1,0 +1,1086 @@
+RS
+
+MONTHLY
+
+ECONOMIC
+UPDATE & OUTLOOK
+FEBRUARY 2024
+GOVERNMENT OF PAKISTAN - FINANCE DIVISION - ECONOMIC ADVISER’S WING
+
+finance.gov.pk
+
+M O N T H LY E C O N O M I C U P D AT E & O U T L O O K
+
+Contents
+01
+
+Foreword
+
+02
+
+Executive Summary
+
+04
+
+International Performance and Outlook
+
+05
+
+Performance of Pakistan's Economy
+
+09
+
+Economic Outlook
+
+12
+
+Economic Indicators
+
+Foreword
+Dr. Shamshad Akhtar
+Minister for Finance, Revenue
+& Economic Affairs
+
+A
+
+s the new government takes ofﬁce
+after the 8th February General
+Elections, expectations are that a
+vibrant strategy and vision would help revive
+the economy and build on the hard-earned
+gains made over the last six months. Last
+few months measures have restored market
+conﬁdence and led to a pick-up in economic
+activity. GDP growth accelerated to 2.1% in
+Q1 FY2024, after two consecutive quarters
+of negative growth. The growth was broadbased with the agriculture sector posting 5%
+growth and manufacturing activity
+registering 2.5% growth. In particular, the
+removal of the import ban and other import
+restrictions have eased supply constraints,
+leading to pick-up in economic activity. Data
+from Q2 FY2024 is showing stronger
+performance of the manufacturing sector,
+with large scale manufacturing posting 8.2%
+increase over Q1. We expect Q2 FY2024
+GDP growth to rise to around 3% on
+stronger manufacturing output and higher
+production of crops including cotton, which
+has increased by 75% to 8.35 million bales.
+To tackle these challenges, the caretaker
+government has taken steps to reduce
+unproductive expenditures and boost tax
+and non-tax income. During Jul-Dec
+FY2024, the government has run a primary
+
+surplus of Rs 1.5 trillion (1.4% of GDP)
+against IMF SBA target of 0.5% of GDP.
+Difﬁcult and unpopular measures including
+a reduction in the subsidy bill on power and
+gas through timely implementation of
+quarterly tariffs helped improve primary
+account. No supplementary grants have
+been issued during this period and PSDP
+projects that fall under the provincial domain
+have been transferred to provincial ADPs.
+At the same time, we have increased the
+release of funds for 9.3 million most
+vulnerable households.
+On the revenue side, the FBR Tax collection
+grew by 30% to Rs 5.15 trillion during JulJan FY2024 despite a slowdown in imports
+and 0% GST on petroleum products.
+Overall growth in the domestic taxes has
+increased by 40%, with the rebound in
+economic activity and rise in proﬁtability of
+companies including Banks, Oil & Gas, and
+the manufacturing industry. Import taxes
+posted a growth of 16% due to
+improvements in the valuation of imports
+that yielded Rs 151 billion in collections as
+well as the anti-smuggling drive that
+witnessed almost 69 % growth in FY2024.
+The improvement in the ﬁscal position has
+helped the government to reduce the
+accumulation of public debt. Net domestic
+borrowing has decreased by 67% to Rs 1.9
+trillion, from Rs 5.8 trillion in the preceding
+period. The lower domestic borrowing, lower
+cost of borrowing on margin (below the SBP
+policy rate) and extended maturity proﬁle
+helped lower net domestic borrowing. Most
+of all the domestic debt proﬁle has improved
+to 3.1 years in Jan 2024, from 2.7 months in
+Jun 2023. The government also
+successfully launched a 1 year Sukuk on
+the PSX, the ﬁrst auction was held in
+November 2023, raising lower-cost debt
+from non-bank and retail investors.
+Similarly, external net borrowing during fell
+to $ 0.3 billion, compared to $ 3bn in the
+preceding period.
+At the heart of the economic challenges
+facing Pakistan today is the unsustainable
+public debt position, with Pakistan in breach
+of the Fiscal Responsibility & Debt
+Limitation Act (FRDL) since 2013. The
+government's ability to service the public
+FEBRUARY - 2024
+
+1
+
+M O N T H LY E C O N O M I C U P D AT E & O U T L O O K
+
+debt liabilities are hampered by weak tax
+collection, rising losses of SOEs, and
+highest interest rates since 1972.
+The improvement in the ﬁscal position and
+other quantitative and structural
+benchmarks led to the successful ﬁrst
+review of the IMF SBA in November 2023,
+and subsequent disbursement of $ 700
+million in January 2024. The measures
+taken to conclude the IMF staff review
+included the annual rebasing of power
+tariffs, the semi-annual gas tariff
+adjustment, and the SOE Policy to enhance
+governance and improve ﬁnancial
+performance. A comprehensive Circular
+Debt Management Plan (CDMP) was
+enforced that focused on reforms to reduce
+high costs, improve DISCO performance,
+and increase competition and green energy.
+Headline Inﬂation has remained persistently
+high, but we anticipate a signiﬁcant fall in
+inﬂation in 2024 due to the economic
+measures taken by the caretaker
+government including improvement in the
+supply of imports of raw materials, higher
+food production, and stability in the
+exchange rate market. Assuming no
+exogenous shocks, including a rise in
+international oil prices, the SBP projects
+inﬂation to fall to 5% to 7% range by
+FY2025. During the month of Feb 2024 the
+weekly SPI inﬂation has declined to 30.7%
+compared to 44% in Jan 2024.
+Turning to the markets, the premium
+between interbank and open market was
+brought down to less than 0.5%, against the
+agreed 1.25% range. SBP FX reserves
+were raised to $ 8.1 billion, compared to $
+4.4bn in June 2023, while reducing the
+swaps from commercial banks to $ 3.5
+billion, from $ 4.5 bn in June 2023.
+The markets have rallied due to
+improvements in the economic conditions
+and the PSX has rallied 40% from Sep with
+the KSE 100 index rising to 63,300 points
+th
+by 26 Feb. Foreign buyers have invested $
+51.7 million in the PSX during FY2024, after
+4 years of outﬂow. During the period, the
+Rupee has strengthened 8% to 280 levels.
+The risk premium (Credit Default Swaps) on
+the Eurobonds has come down sharply to
+
+1,534bps in Feb 2024, compared to
+4,825bps in June 2023.
+To sustain these gains, it is imperative that
+the new government completes the last
+review of the IMF SBA. Perhaps more
+important is that the new government reach
+an early agreement with the IMF staff on a
+new medium-term facility, providing an
+anchor to carry out the difﬁcult reforms. To
+achieve this the new government must take
+forward critical reforms on restructuring of
+the FBR, privatization of the loss-making
+SOEs including PIA, and the
+implementation of the SOE policy for
+improved governance and ﬁnancial
+performance.
+
+Executive
+Summary
+Economic instability is fading, with revival
+efforts aimed at boosting the activity across
+sectors. The real sector is experiencing
+notable growth, leading to a positive market
+response and signs of recovery. The PKR
+has stabilized and the PSX has shown
+sustained performance improvements,
+reﬂecting a conducive environment for the
+economic activity. Though the pace of
+overall expansion is slow, but improvements
+in major economic indicators signifying an
+optimistic GDP outlook in FY2024.
+Agriculture sector is experiencing stronger
+growth as compared to last year. The robust
+performance in this sector reﬂects better
+situation of food security and employment
+during the ongoing ﬁscal year. For the Rabi
+season 2023-24, the timely sowing of wheat
+aligns with the goal of reaching a production
+target of 32.12 million tonnes, with
+expectations for further increase in other
+crops production due to favorable climatic
+conditions. The farm tractor production and
+sales registered signiﬁcant increase of 76.7
+percent and 82.5 percent during JulyJanuary FY2024, respectively, compared to
+the same period last year. A mixed trend
+witnessed in fertilizer usage, urea off-take
+dropped by 6.7 percent during OctoberJanuary whereas DAP off-take rose by 14.5
+FEBRUARY - 2024
+
+2
+
+M O N T H LY E C O N O M I C U P D AT E & O U T L O O K
+
+percent during the same period.
+The LSM sector showcased an increase of
+3.4 percent on YoY basis in December
+2023, compared to 1.1 percent decline. On
+MoM basis it increased by 15.7 percent in
+December, against an increase of 3.6
+percent in November. Overall, a minor
+decline of 0.4 percent was recorded during
+Jul-Dec FY2024, compared to a contraction
+of 2.1 percent in the same period last year.
+During Jul-Dec FY2024, 12 out of 22
+sectors witnessed positive growth. The
+positive sectors include Food, Beverages,
+Wearing Apparel, Leather Products, Coke &
+Petroleum Products, Chemicals,
+Pharmaceuticals, Non-Metallic Mineral
+Products, Rubber Products, Wood
+Products, Machinery and Equipment and
+others (including Football), while negative
+growth observed in Tobacco, Textile, Paper
+& Board, Iron & Steel Products, Fabricated
+Metal, Computer, Electronics & Optical
+Products, Automobiles, Electrical
+Equipment, Furniture and Other Transport
+Equipment.
+The inﬂationary pressure remained
+sustained in January, though anticipated to
+fall in coming months. In January 2024, the
+CPI inﬂation was recorded at 28.3 percent
+on a year-on-year basis, up from 27.6
+percent in January 2023. During Jul-Jan
+FY2024, it has increased to 28.7 percent,
+compared to 25.4 percent in the
+corresponding period last year. The spike in
+CPI is mainly driven by an increase in the
+costs of Alcoholic Beverages & Tobacco,
+Housing, Water, Electricity, Gas & Fuel,
+Furnishing & Household Equipment
+Maintenance, Perishable Food Items, NonPerishable Food Items, Transport, Health,
+and Clothing & Footwear. The government
+is providing relief measures including the
+Ramzan Relief package, aimed at
+supporting poor segment of the society
+during the holy month of Ramzan in 2024.
+On the ﬁscal front, during ﬁrst half of the
+current ﬁscal year, a substantial rise in tax
+and non-tax collection contributed to
+improved revenue growth, leading to a
+surplus in the primary balance. However,
+the expenditure side remained under
+signiﬁcant pressure due to higher markup
+
+payments. Consequently, the ﬁscal deﬁcit
+reached 2.3 percent of GDP compared to
+2.0 percent of GDP last year. While the
+primary surplus improved to 1.7 percent of
+GDP during Jul-Dec FY2024, up from the
+1.1 percent of GDP in the previous year.
+On the external front, a sustained
+improvement in trade balance is continued,
+leading to improvement in the Current
+Account Balance. During Jul-Jan FY2024,
+the Current Account posted a deﬁcit of $1.1
+billion against a deﬁcit of $ 3.8 billion last
+year. The YoY exports increased by 21.2
+percent to $ 2.7 billion in January 2024 as
+compared to $ 2.2 billion in January 2023,
+owing to ease in imports restriction and
+exchange rate stability resulted in smooth
+supply of raw material for export-oriented
+industries. YoY imports increased by 16.0
+percent to $4.5 billion in January 2024 as
+compared to $ 3.9 billion same month last
+year. Trade balance narrowed down by 9.1
+percent to $ 1.8 billion in January 2024 as
+against $ 1.7 billion last year. The total
+foreign investment during Jul-Jan FY2024
+recorded an inﬂow of $ 785.9 million as
+against an outﬂow of $ 148.8 million last
+year. During Jul-Jan FY2024, workers'
+remittances recorded at $ 15.8 billion ($
+16.3 billion last year), decreased by 3.0
+percent. However, YoY remittances
+increased by 26.2 percent in January 2024
+($ 2.39 billion) as compared to January
+2023 ($ 1.90 billion)
+In monetary sector, the MPC has
+maintained the policy rate at 22.0 percent in
+th
+its decision held on 29 January, 2024. The
+decision based on the expectation of
+decline in inﬂation in upcoming months.
+During 1st July – 2nd February, FY2024
+money supply (M2) showed growth of 2.5
+percent (Rs 792.3 billion) compared 1.5
+percent growth (Rs 426.1 billion) in last
+year.
+The ﬁrst seven months indicates uptick in
+the key economic indicators. It is expected
+that the economic activities will gain further
+momentum in the last quarter of FY2024.
+The positive outlook is contingent on the
+sustained implementation of sound and
+prudent economic policies to achieve the
+set growth targets for the current ﬁscal year.
+
+FEBRUARY - 2024
+
+3
+
+M O N T H LY E C O N O M I C U P D AT E & O U T L O O K
+
+International
+Performance
+and Outlook
+According to World Economic Outlook
+(WEO) January 2024, global growth
+estimated at 3.1 percent in 2024 before
+rising modestly to 3.2 percent in 2025. The
+forecast for 2024 is 0.2 percentage point
+higher, compared with October 2023 WEO,
+indicating upgrades for China, the United
+States, and large emerging market and
+developing economies. Nevertheless, the
+projection for global growth in 2024 and
+2025 is below the historical (2000–19)
+annual average of 3.8 percent, reﬂecting
+restrictive monetary policies and withdrawal
+of ﬁscal support, as well as low underlying
+productivity growth. Advanced economies
+are expected to observe growth decline
+slightly in 2024 before rising in 2025, with a
+recovery in the euro area from low growth in
+2023 and a moderation of growth in the
+United States. Emerging market and
+developing economies are expected to
+experience stable growth through 2024 and
+2025.
+Global headline inﬂation is expected to fall
+from an estimated 6.8 percent in 2023 to 5.8
+percent in 2024 and 4.4 percent in 2025.
+The drivers of declining inﬂation differ by
+country but generally reﬂect lower core
+inﬂation as a result of still-tight monetary
+policies, a related softening in labor
+markets, and pass-through effects from
+earlier and ongoing declines in relative
+energy prices.
+World trade growth is projected at 3.3
+percent in 2024 and 3.6 percent in 2025,
+below its historical average growth rate of
+4.9 percent. Rising trade distortions and
+geo-economic fragmentation are expected
+to continue to weigh on the level of global
+trade. These forecasts are based on
+assumptions that fuel and non-fuel
+commodity prices will decline in 2024 and
+2025, and interest rates will also be
+declining in major economies. Annual
+
+average oil prices are projected to fall by
+about 2.3 percent in 2024, whereas non-fuel
+commodity prices are expected to fall by 0.9
+percent.
+The Federal Reserve held its benchmark
+overnight interest rate steady in the 5.255.50 percent range at the end of its January
+30-31 policy meeting. However, committee
+has considered to reducing it once
+policymakers are more conﬁdent, inﬂation
+will continue falling to the U.S. central
+bank's 2 percent target. Upcoming data on
+inﬂation, jobs and consumer spending will
+shape the timing of that decision. CPI index
+rose 3.1 percent on YoY basis in January,
+down from 3.4 percent in the prior month,
+but the latest inﬂation numbers was higher
+than expected projections.
+U.S. ﬁrms added 353,000 jobs in January
+up from 333,000 jobs in December. The
+unemployment rate remained steady at 3.7
+percent. The US Commerce Department's
+Bureau of Economic Analysis (BEA)
+reported fourth quarter real GDP increased
+at an annual rate of 3.3 percent in the fourth
+quarter of 2023 exceeding expectations. In
+addition, the economy added 2.7 million
+jobs in 2023.Consumer conﬁdence
+continues to remain strong. This also
+evident through growth in WEI which is
+hovering around 2-2.5 percent in recent
+months (Fig-1).
+The J. P. Morgan Global Composite Output
+Index increased to 51.8 in January 2024 as
+against 51.0 in December 2023 and its
+highest reading since June 2023. Services
+business activity rose at the quickest pace
+since July 2023, as increases in the
+business and ﬁnancial services categories
+offset a minor decrease at consumer
+service providers.
+Data by nation signaled expansions of
+economic output in 09 out of the 14 nations
+for which January data were available. The
+BRIC nations of Brazil, Russia, India and
+China made up four of the top-ﬁve
+performers, along with the UK in fourth
+position overall. The US, Japan, Italy and
+Spain were the other nations to signal
+expansions. France, Canada and Germany
+were the worst performers overall, while
+
+FEBRUARY - 2024
+
+4
+
+M O N T H LY E C O N O M I C U P D AT E & O U T L O O K
+
+Australia and Kazakhstan also observed
+output decline. This growth expansion is
+also evident through CLI position of
+Pakistan's main export markets. The
+expansion has been observed in UK and
+China, contrary US and Euro Area
+economies are below their potential (Fig-2).
+The FAO food prices index (FFPI) averaged
+118.0 points in January 2024, down 1.2
+points from its revised December level, as
+decline in the price indices for cereals and
+meat more than offset an increase in the
+sugar price index, while those for dairy and
+vegetable oils registered slight adjustments.
+Energy prices in January increased by 8.2
+percent, led by natural gas US (25.9
+percent) and oil (2.6 percent). Non-energy
+prices eased by 0.7 percent. Food prices
+declined by 1.6 percent. Beverage and raw
+materials gained 1.7 percent and 0.9
+percent. Fertilizer prices plunged 2.9
+percent. Metal price inched down 0.3
+percent led by nickel (-2.2 percent) and
+Iron-Ore (-0.9 percent). Precious metal
+eased by 0.3 percent.
+
+Rs
+
+Performance
+of Pakistan’s
+Economy
+
+2.1Real Sector
+2.1-a Agriculture
+For Rabi 2023-24, wheat crop timely sowing
+is well aligned with the target to achieve the
+production target of 32.12 million tonnes.
+The Rabi season crops production is
+expected to increase given the climatic
+condition in the country. Weather changes
+during growing seasons particularly near
+maturity affects wheat production.
+The farm inputs show positive sign. During,
+Jul-Jan FY2024, farm tractor production and
+sales recorded at 27,721 and 27,225
+witnessing an increase of 76.7 percent and
+82.5 percent, respectively, over same period
+last year. During Jul-Dec FY2024, the
+agriculture credit disbursement reached to
+Rs 1105.8 billion as compared to Rs 842.4
+FEBRUARY - 2024
+
+5
+
+M O N T H LY E C O N O M I C U P D AT E & O U T L O O K
+
+billion last year, an increase of 31.3 percent.
+Urea offtake during Rabi 2023-24 (Oct-Jan)
+remained 2,310 thousand tonnes (6.7
+percent less than Rabi 2022-23) whereas
+DAP offtake was 642 thousand tonnes (14.5
+percent higher than Rabi 2022-23)
+2.1-b Manufacturing
+Large Scale Manufacturing (LSM) declined
+by 0.4 percent during Jul-Dec FY2024
+against the contraction of 2.1 percent same
+period last year. In December 2023, LSM
+increased by 3.4 percent on YoY basis
+against the decline 1.1 percent in the same
+month last year. While on MoM basis, it
+increased by 15.7 percent in December
+against the increase of 3.6 percent in
+November.
+During Jul-Dec FY2024, 12 out of 22
+sectors witnessed positive growth. The
+positive includes, Food, Beverages,
+Wearing apparel, Leather, Coke &
+Petroleum Products, Chemicals,
+Pharmaceuticals, Non-Metallic Mineral
+Products, Rubber Products, Wood
+Products, Machinery and Equipment, and
+others (Football).
+During Jul-Jan FY2024, the performance of
+auto-industry remains subdued due to
+massive increases in inputs prices, and
+tightening auto ﬁnance. Car production and
+sale decreased by 47.6 percent and 48.7
+percent, while Trucks & Buses production
+and sale decreased by 58.3 percent and
+49.4 percent. However, Tractor's production
+
+and sale increased by 76.7 percent and
+82.5 percent.
+During the ﬁrst seven months of FY24,
+sales of total petroleum products dropped
+by 13 percent to 9.07 million tons compared
+to 10.48 million tons in the same period last
+year. While in January 2024, oil sales
+recorded at 1.38 mn tons, down 4.0 percent
+YoY.
+During Jul-Jan FY2024, total cement
+dispatches (domestic and exports) were
+27.296 million tons that is 5.9 percent higher
+than 25.770 million tons dispatched during
+the corresponding period of last ﬁscal year.
+Domestic dispatches during this period were
+23.196 million tons against 23.618 million
+tons during same period last year showing a
+reduction of 1.79 percent. Export dispatches
+showed healthy increase of 90.49 percent
+as the volumes increased to 4.1 million tons
+during the ﬁrst seven months of current
+ﬁscal year compared to 2.152 million tons
+exports done during same period last year.
+2.2 Inﬂation
+CPI inﬂation recorded at 28.3 percent on a
+year-on-year basis in January 2024 as
+compared to 27.6 percent in January 2023.
+During Jul-Jan FY2024, CPI stood at 28.7
+percent against 25.4 percent in the same
+period last year. On a Month on Month
+(MoM) basis, it increased to 1.8 percent in
+January 2024 compared to an increase of
+0.8 percent in the previous month.
+Major drivers contributing to the year-onyear increase in CPI include Alcoholic
+Beverages & Tobacco (82.6 percent),
+Housing, Water, Electricity, gas & Fuel (38.7
+percent), Furnishing & Household
+equipment maintenance (31.2 percent),
+Perishable food items (30.7 percent), Nonperishable food items (24.0 percent),
+Transport (26.2 percent), Health (21.5
+percent) and Clothing & Footwear (21.0
+percent).
+The approval of the Ramzan Relief package
+by the ECC is aimed at providing support to
+the poor segment of society during the holy
+month of Ramzan. With an allocation of
+Rs 7.492 billion, this package will enable the
+provision of subsidized items through the
+
+FEBRUARY - 2024
+
+6
+
+M O N T H LY E C O N O M I C U P D AT E & O U T L O O K
+
+Utility Stores Corporation (USC) to help
+alleviate the ﬁnancial burden on the target
+beneﬁciaries.
+The SPI for the week ended on 22nd
+February 2024, recorded an increase of
+0.04 percent as compared to previous
+week. Prices of 08 items declined, 20 items
+remained stable and 23 items increased.
+2.3 Fiscal
+During ﬁrst half of FY2024, the Fiscal deﬁcit
+was recorded at 2.3 percent of GDP
+(Rs2407.8 billion) against 2.0 percent of
+GDP (Rs1683.5 billion) last year. Whereas a
+primary surplus continued to improve and
+reached Rs 1812.2 billion (1.7 percent of
+GDP) during Jul-Dec FY2024 from the
+surplus of Rs 889.6 billion (1.1 percent of
+GDP last year).
+
+FBR collected Rs 5149.6 billion in Jul-Jan
+FY2024 against Rs 3966.4 billion last year,
+representing a growth of 29.8 percent. In
+the month of January 2024, the net
+collection grew by 26.6 percent to reach Rs
+680.3 billion from Rs 537.6 billion last year.
+During Jul-Jan FY2024, domestic tax
+collection increased by 32.4 percent while
+customs duty grew by 13.7 percent. Within
+the domestic tax collection, FED remained
+the major revenue head with 61.8 percent
+growth followed by direct tax at 40.2 percent
+and sales tax at 19.5 percent.
+2.4 Monetary Sector
+The Monetary Policy Committee (MPC) has
+maintained the policy rate at 22 percent in
+its decision held on 29th January, 2024. The
+MPC has observed that the frequent and
+sizeable adjustments in administered
+energy prices have slowed down the pace
+of decline in inﬂation anticipated earlier,
+besides a sustained decrease in inﬂation
+expectations. On the other hand, the nonenergy inﬂation continues to moderate, in
+line with expectations.
+st
+
+nd
+
+During 1 July – 2 February, FY2024
+money supply (M2) shows growth of 2.5
+percent (Rs 792.3 billion) compared 1.5
+percent growth (Rs 426.1 billion) in last
+year. Within M2, NFA increased by Rs 360.8
+billion as compared decrease of Rs 2303.5
+billion in last year. On the other hand, NDA
+of the banking sector increased by Rs 431.5
+billion as compared an increase of Rs
+2729.5 billion last year.
+2.5 External Sector
+The Current Account posted a deﬁcit of $
+1.1 billion for Jul-Jan FY2024 as against a
+deﬁcit of $ 3.8 billion last year, largely
+reﬂecting narrow down in trade deﬁcit.
+Exports (fob) increased by 9.3 percent and
+reached $ 18.0 billion ($ 16.4 billion last
+year). Imports (fob) declined by 11.1 percent
+reaching $ 29.8 billion ($ 33.5 billion last
+year). Resultantly, the trade deﬁcit recorded
+at $ 11.8 billion as against $ 17.0 billion last
+year.
+Exports in services decreased by 2.4
+percent to $ 4,448 million as against $ 4,558
+million same period last year. The imports in
+
+FEBRUARY - 2024
+
+7
+
+M O N T H LY E C O N O M I C U P D AT E & O U T L O O K
+
+services increased by 28.8 percent to $
+6,168 million as compared to $ 4,790 million
+same period last year. The trade deﬁcit in
+services stood at $ 1,720 million as against
+$ 232 million last year.
+As per PBS, the export commodities that
+registered positive growth include Rice
+(67.6 percent in quantity & and 95.3 percent
+in value), Fruits (26.7 percent in quantity &
+9.6 percent in value), Cotton Yarn (73.5
+percent in quantity & 49.0 percent in value),
+Towel (13.0 percent in quantity & 2.3
+percent in value) Rubber Tyres & Tubes (9.3
+percent in quantity & 42.1 percent in value),
+and Plastic Materials (118.2 percent in
+quantity & 53.8 percent in value). Whereas,
+main imported commodities were Petroleum
+products ($ 3621.4 million), Petroleum
+crude ($ 2977.7 million), LNG ($ 2298.1
+million), Palm Oil ($1611.4 million), Plastic
+materials ($ 1367.9 million), Iron & Steel ($
+1146.8 million) and Medicinal products ($
+633.7 million).
+2.5.1 Foreign Investment
+Total foreign investment during Jul-Jan
+FY2024 recorded an inﬂow of $ 785.9
+million as against an outﬂow of $ 148.8
+million last year. FDI stood at $ 689.5 million
+($ 876.8 million last year) decreasing by
+21.4 percent. In January 2024, FDI
+witnessed a huge outﬂow of $ 173 million
+owing to aggressively pulled out of
+investment from power projects mainly by
+China. FDI received from Hong Kong $
+206.9 million (30.0 percent), UK $ 141.5
+million (20.5 percent), Netherland $ 53.7
+million (7.8 percent), Singapore $ 49.0
+million (7.1 percent share), and China $
+37.9 million (5.5 percent). Power sector
+attracted the highest FDI of $ 191.0 million
+(27.7 percent of total FDI), Oil & Gas
+exploration $ 134.6 million (19.5 percent),
+and Financial Business $ 108.2 million (15.7
+percent).
+
+to January 2023 ($ 1.90 billion) whereas
+remittances increased marginally by 0.6
+percent in January 2024 ($2.39 billion) as
+compared to December 2023 ($ 2.38 billion)
+owing of structural reforms related to
+exchange company and consequently
+convergence in exchange rate in interbank
+and open markets. Share of remittances
+from Saudi Arabia remained 24.2 percent ($
+3841.4 million), U.A.E 17.3 percent ($
+2736.1 million), U.K 14.8 percent ($ 2350.2
+million), USA 11.7 percent
+($ 1859.9 million), other GCC countries 11.0
+percent ($ 1741.9 million), EU 12.5 percent
+($ 1985.1 million), Australia 2.2 percent ($
+344.3 million), and other countries 6.2
+percent ($ 973.4 million).
+2.5.3 Foreign Exchange Reserves
+Pakistan's total liquid foreign exchange
+reserves increased to $ 13.0 billion on
+February 27, 2024, with SBP's reserves
+stood at $ 7.9 billion and Commercial banks'
+reserves remained at $ 5.1 billion.
+2.6 Performance of KSE Index
+The performance of Pakistan Stock
+Exchange (PSX) remained volatile in the
+month of January 2024 owing to the political
+uncertainty and General Elections. The
+benchmark of PSX, KSE-100 index closed
+at 61,979 points as of 31st January 2024,
+lost 472 points compared to end December
+2023. Similarly, market capitalization of PSX
+
+2.5.2 Worker's Remittances
+In Jul-Jan FY2024, workers' remittances
+recorded at $ 15.8 billion ($ 16.3 billion last
+year), decreased by 3.0 percent. YoY
+remittances increased by 26.2 percent in
+January 2024 ($ 2.39 billion) as compared
+
+FEBRUARY - 2024
+
+8
+
+M O N T H LY E C O N O M I C U P D AT E & O U T L O O K
+
+decreased by around Rs 11 billion and
+settled at Rs 9,074 billion as of end January
+2024. During the month of January, the
+performance of major world stock market
+indices showing mix picture. SSE
+Composite of China declined by 6.3 percent
+followed by KSE-100 index (-0.8 percent)
+and Sensex 30 of India (-0.7 percent).
+However, S&P 500 of US and CAC 40 of
+France increased by 1.7 percent and 1.5
+percent respectively. The performance of
+major world indices indexed at 100 is
+depicted in Figure below.
+2.7 Social Sector
+
+§
+
+BISP has increased the amount of
+Kafaalat stipend upto Rs 10,500 for
+9.2 million beneﬁciaries to provide
+ﬁnancial relief across the country.
+
+§
+
+The quarterly Benazir Education
+Stipends will be issued from the
+month of March including Rs 2500
+(Primary), Rs 3500 (Secondary) and
+Rs 4500 (higher secondary) for the
+girl students. While for the boy
+students, Rs 2,000 (primary), Rs
+3,000 (secondary) and Rs 4,000
+(higher secondary) will be issued
+during the same period.
+
+§
+
+PPAF through its 24 Partner
+Organizations has disbursed 28,321
+interest free loans amounting to Rs
+1.25 billion during the month of
+January, 2024. Since inception of
+interest free loan component, a total
+of 2,624,303 interest free loans
+amounting to Rs 99.35 billion have
+been disbursed to the borrowers.
+
+§
+
+Pakistan is one of the largest labour
+exporting countries in the region.
+During January, 2024 Bureau of
+Emigration & Overseas
+Employment has registered 60694
+for overseas employment in
+different countries.
+
+§
+
+Under Prime Minister Youth
+Business & Agriculture Loan
+Scheme the government has
+disbursed Rs 66,267 million till
+December, 2023 to 107,813
+beneﬁciaries for business.
+
+Economic
+Outlook
+
+Rs
+
+3.1 Inﬂation
+In February 2024, the administered prices of
+petrol and diesel increased in response to a
+notable surge in crude oil prices,
+highlighting the direct inﬂuence of global
+market dynamics on domestic fuel costs.
+Despite the upward adjustment in
+transportation expenses and gas prices, the
+inﬂation outlook for the upcoming month
+may have a downward trend, primarily due
+to a decrease in the prices of perishable
+items on the back of better crops and ease
+in supplies. Additionally, the high base effect
+would further contribute to keep the
+inﬂationary pressure on the lower side.
+Meanwhile, the Food and Agriculture
+Organization's food price index, which
+tracks the most globally traded food
+commodities, averaged 118.0 points in
+January 2024 down by 1.0 percent from
+December level as decreases in the price
+indices for cereals and meat more than
+offset an increase in the sugar price index,
+while those for dairy and vegetable oils only
+registered slight adjustments.
+Considering these factors, inﬂation is
+projected to hover around 24.5-25.5 percent
+in February 2024, with expectations of a
+further easing to 23.5-24.5 percent in March
+2024.
+3.2 Agriculture
+The input situation is favorable. Weather is
+an important component in achieving the
+production targets of Rabi 2023-24. The
+PMD's weather outlook for February 2024,
+shows that a moderate amount of water
+would be available for standing crops and
+vegetables having a positive impact on Rabi
+crops. Farmers in Barani areas may plan
+scheduled watering.
+3.3 Industrial activity
+The LSM cycle usually follows the cyclical
+movements in the main trading partners, but
+since it is focused on the main industrial
+
+FEBRUARY - 2024
+
+9
+
+M O N T H LY E C O N O M I C U P D AT E & O U T L O O K
+
+sectors and not on total GDP, it is somewhat
+more volatile than the cyclical component of
+GDP in Pakistan's main export markets.
+The LSM activity since April 2023 followed
+an upward trend, aligning with the growth
+observed in the output gap of Pakistan's
+main export areas. This suggests a positive
+momentum in industrial production. Both
+have now reached a level above the neutral
+benchmark. However, in the case of
+Pakistan, volatility remains high, and it is not
+excluded that in January 2024, the
+seasonally adjusted LSM output may
+marginally fall back below its potential. In
+this respect, it can be observed that in
+January 2024 total cement dispatches
+showed a signiﬁcant YoY decline, whereas
+the YoY growth rate of total production of all
+vehicles also remained subdued.
+The LSM activity increased by 3.4 percent
+YoY in December 2023 while on MoM it has
+witnessed a sharp rise of 15.7 percent in
+December 2023 over November 2023. It is
+therefore expected that despite challenges
+such as volatility and speciﬁc sectoral
+slowdown, the positive trend in LSM growth
+will continue in the remaining months of the
+current ﬁscal year.
+3.4 Overall Economic Activity
+The Monthly Economic Indicator (MEI) is
+developed as a tool to distribute the past
+annual GDP numbers, reported by the PBS,
+on a monthly/quarterly basis, and to
+
+nowcast GDP growth for the ﬁscal year in
+which the National Accounts are not yet
+available on the same frequency. The ﬁgure
+presents the MEI every month since July
+2019. It should be noted that some of the
+data underlying the January 2024 MEI are
+still provisional and may be revised next
+month.
+The restrictive stance of monetary policy
+and limited ﬁscal space are posing
+numerous challenges to stimulating the
+economy. Despite the domestic challenges,
+there is some optimism regarding Pakistan's
+export markets. The weighted average
+cyclical conditions in Pakistan's main export
+markets are improving which will be
+supportive in providing a boost to exportoriented industries and thus overall
+economic growth. Despite some important
+headwinds, the MEI remains in positive
+territory, indicating a gradual recovery in
+economic activities.
+The economy is beneﬁtting from
+stabilization measures leading to restoring
+business conﬁdence. The KSE-100 index
+started to rebound at the end of 2023 and
+has remained at a higher level since then.
+The rebound in stock prices is conﬁrmed by
+a simultaneous rebound in overall business
+conﬁdence. In addition, the stability in the
+exchange rate also ensures a conducive
+environment for economic growth thus
+reducing uncertainty.
+
+FEBRUARY - 2024
+
+10
+
+M O N T H LY E C O N O M I C U P D AT E & O U T L O O K
+
+3.5 External
+During January – 2024, exports of goods
+and services increased by 15.8 percent on
+YoY basis, due to observed expansion in
+domestic economic activities and revived
+economic situation in Pakistan's main
+exports destinations. However, on MoM
+basis it decreased by 4.4 percent, due to
+negative seasonal effect in January. On the
+other hand, imports of goods and services
+increased by 21.3 and 11.0 percent on YoY
+and MoM basis respectively. Higher imports
+have been reﬂected in the trade deﬁcit of
+goods and services, which increased by
+31.1 and 48.9 percent on YoY and MoM
+basis, respectively. The current account
+balance has been partially offset by
+remittances – posted signiﬁcant growth of
+26.2 percent on YOY basis – despite
+negative seasonal effect. Current account
+turns to deﬁcit of US$ 269 million in January
+- 2024 as compared surplus of US$ 404
+million in December – 2023. In the current
+baseline scenario, an improvement and
+recovery has been expected in exports,
+imports and remittances on a monthly basis.
+As a result, current account will remain in
+manageable limit during remaining months
+of FY2024.
+3.6 Fiscal
+On the revenue side, FBR tax collection has
+shown a remarkable performance by
+posting a growth of around 30.0 percent
+during Jul-Jan FY2024. The actual
+collection exceeded the target by Rs 35
+billion during the ﬁrst seven months of the
+
+current ﬁscal year. The positive growth
+trends in tax collection are indicative of
+improving economic conditions, gradual
+recovery in business activities, and effective
+enforcement measures. Consequently, the
+revenue landscape presents a promising
+outlook, characterized by substantial growth
+across various tax components.
+In contrast, higher markup payments are
+putting signiﬁcant pressure on expenditures.
+However, the government's persistent
+efforts to curtail non-markup expenditures
+through austerity measures have facilitated
+a continuous improvement in primary
+surplus. It is therefore expected that the
+continuity of ﬁscal consolidation efforts will
+support maintaining the ﬁscal deﬁcit within
+manageable limits.
+3.7 Final Remarks
+The inﬂation outlook for the upcoming
+month points towards a downward trajectory
+owing to better crops and a smooth supply
+of commodities. Similarly, favorable input
+situations are set to bolster Rabi crop
+production. On the other hand, industrial
+activity in December remained positive
+despite a speciﬁc sectoral slowdown.
+Notwithstanding, restrictive monetary and
+ﬁscal policies, the optimism is fueled by
+improvements in cyclical conditions in
+Pakistan's export markets facilitating steady
+economic recovery. The stabilization
+measures encouraging business conﬁdence
+coupled with exchange rate stability,
+contribute to a positive economic outlook for
+Pakistan amidst ongoing challenges.
+
+FEBRUARY - 2024
+
+11
+
+29th February 2024
+
+ECONOMIC INDICATORS
+Remi ances ($ bn)
+
+Exports FOB ($ bn)
+
+Imports FOB ($ bn)
+
+Current Account Deﬁcit ($ bn)
+
+Source: SBP
+FDI ($ mn)
+
+Total Foreign Investment ($ mn)
+
+Source: FBR & Budget Wing
+FBR Revenue (Rs.bn)
+
+Non-Tax Revenue (Rs.bn)
+
+Source: SBP
+
+PSDP (Rs.bn)
+
+Agriculture Credit (Provisional)
+
+PSX Index
+
+Market Capitaliza on (Rs. bn)
+
+Market Capitaliza on ($ bn)
+
+* : Formerly Karachi Stock Exchange (KSE)
+
+Source: PBS, PSX & SECP
+
+FEBRUARY - 2024
+
+12
+
+

@@ -1,0 +1,175 @@
+---
+title: "Co-occurrance_Network"
+author: "Atiq"
+format: html
+editor: visual
+---
+
+
+# Libraries
+
+
+```{r, message=FALSE, warning=FALSE}
+library(tm)
+library(NLP)
+library(SnowballC)
+library(wordcloud)
+library(RColorBrewer)
+library(syuzhet)
+library(ggplot2)
+library(stringr)
+library(tidyverse)
+library(tidytext)
+library(topicmodels)
+library(tidyr)
+library(dplyr)
+library(slam)
+library(text)
+library(glmnet)
+library(caret)
+library(e1071)
+library(igraph)
+library(ggraph)
+library(visNetwork)
+library(LDAvis)
+library(textmineR)
+library(stringi)
+library(pdftools)
+library(rvest)
+```
+
+
+# Loading Files
+
+
+```{r}
+folder <- "C:\\Users\\Pc\\OneDrive - Higher Education Commission\\text_data_analysis\\economic_updates_2023_24"
+folder
+#Reading Files from Folder
+filelist <- list.files(path = folder)
+filelist <- paste(folder, "\\" ,filelist, sep="")
+typeof(filelist)
+```
+
+
+# Corpus
+
+
+```{r,warning=FALSE}
+a <- lapply(filelist, FUN = readLines) # for readin line 
+corpus <- lapply(a, FUN = paste, collapse= " ")
+
+```
+
+
+# Preprocessing
+
+
+```{r}
+corpus2 <-gsub(pattern = "\\W", replace= " ",corpus) # to get rid of puntuations ,dots ets
+corpus2 <-gsub(pattern = "\\d", replace= " ",corpus2) # for digits
+corpus2 <- tolower(corpus2)
+
+
+# stopwords
+corpus2 <- removeWords(corpus2, stopwords("english"))
+
+# naw we remove single later words like  in document when view , there is alot of c d like words
+corpus2 <- gsub(pattern = "\\b[A-z]\\b[1]", replace= " ",corpus2)
+ 
+#naw geting rid of white spaces
+corpus2 <- stripWhitespace(corpus2)
+```
+
+
+# 1. Co-Occurrence Network
+
+## 1.1Converting corpus into a Dataframe
+
+
+```{r}
+PDFDataframe <- data.frame(text= sapply(corpus2, as.character),
+                           stringsAsFactors = FALSE)
+```
+
+
+## 1.2 Creating a Bigrams
+
+
+```{r}
+new_bigrams <- PDFDataframe %>% 
+  unnest_tokens(bigram, text, token = "ngrams", n=2)
+new_bigrams %>% head()
+```
+
+
+## 1.3count bigrams frequency
+
+
+```{r}
+#checking for string and colnames 
+new_bigrams %>% 
+  count(bigram, sort = TRUE)
+```
+
+
+## 1.4 seperate bigrame and remove stopwords
+
+
+```{r}
+bigrams_sepaeated <- new_bigrams %>% 
+  separate(bigram, c("word1","word2"), sep = " ")
+bigrams_sepaeated %>% head(20)
+```
+
+
+## 1.5 Bigrams Filter
+
+
+```{r}
+bigrams_filtered <- bigrams_sepaeated %>% 
+  filter(!word1 %in% stop_words$word) %>% 
+  filter(!word2 %in% stop_words$word)
+```
+
+
+## 1.6 new bigrams count
+
+
+```{r}
+bigram_counts <- bigrams_filtered %>% 
+  count(word1,word2,sort = TRUE)
+bigram_counts %>% head(20)
+```
+
+
+## 1.7 Filtering for specific words
+
+
+```{r}
+bigrams_filtered %>% 
+  filter(word1 == "economy") %>% 
+  count(word2, sort = TRUE)
+```
+
+
+# 1.8 bigram graph
+
+
+```{r}
+bigram_graph <- bigram_counts %>% 
+  filter(n>5) %>% 
+  graph_from_data_frame()
+bigram_graph
+```
+
+```{r}
+#| label: fig-1
+set.seed(2024)
+ggraph(bigram_graph,layout= "fr") +
+  geom_edge_link()+
+  geom_node_point()+
+  geom_node_text(aes(label=name),vjust =1, hjust=1)
+
+```
+

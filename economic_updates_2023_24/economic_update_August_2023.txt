@@ -1,0 +1,893 @@
+RS
+
+MONTHLY
+
+ECONOMIC
+UPDATE & OUTLOOK
+AUGUST 2023
+GOVERNMENT OF PAKISTAN - FINANCE DIVISION - ECONOMIC ADVISER’S WING
+
+M O N T H LY E C O N O M I C U P D AT E & O U T L O O K
+
+Contents
+01
+
+Executive Summary
+
+01
+
+International Performance and Outlook
+
+03
+
+Performance of Pakistan's Economy
+
+07
+
+Economic Outlook
+
+10
+
+Economic Indicators
+
+Executive
+Summary
+
+T
+
+he IMF has revised global economic
+growth modestly higher, yet lower
+than 2022 due to weak performance
+in advanced economies. According to the
+latest World Economic Outlook (WEO),
+global growth is expected to decelerate to
+3.0 percent in 2023 from 3.5 percent in
+2022. The inflation rate is projected to
+decline globally, but tight monetary policy
+stance will continue at global level to
+address the problem of inflation which is
+likely to deteriorate global growth prospects
+further. This situation raises the cost of
+external borrowing for the developing
+countries and created currency stability
+predicament. Therefore, developing
+countries are facing the supply-side and
+exchange rate shock whereas there is
+marginal space for the policymakers to deal
+the short-term issues.
+In Pakistan, the real sector, agriculture and
+manufacturing experienced mixed trends. In
+agriculture sector, cotton arrivals increased
+due to the improved seed quality. It is
+expected that the recent year's target of
+12.77 million bales will be achieved with the
+use of improved quality of seed in both
+Sindh and Punjab. While, Large Scale
+Manufacturing (LSM) has faced challenges
+due to supply chain disruptions and policy
+stances. Key sectors such as automobiles,
+petroleum, and cement have witnessed
+varying levels of growth and decline.
+
+Consumer Price Index (CPI) inflation has
+risen on a year-on-year (YoY) basis, and
+there are up-down fluctuations in inflation
+rates on a month-on-month (MoM) basis. In
+the month of July 2023, CPI inflation
+increased to 28.3 percent on YoY basis as
+compared to 24.9 percent in July 2022
+whereas it increased to 29.4 percent in the
+previous month.
+Pakistan's fiscal year 2023 witnessed
+increase in total expenditures, driven by
+higher current spending. Development
+expenditure rose due to increased federal
+Public Sector Development Program
+(PSDP). Revenues increased due to higher
+tax collection, with growth in both domestic
+taxes and customs duty.
+The Monetary Policy Committee (MPC) has
+maintained the policy rate, considering
+improved economic certainty, external
+sector stability, and fiscal consolidation
+efforts. Money supply (M2) experienced
+negative growth, and foreign exchange
+reserves increased.
+The current account deficit decreased by
+35.8 percent and stood at $ 809 million
+during July 2023 as against $ 1.3 billion last
+year, owing to improvement in trade
+balance.
+
+International
+Performance
+and Outlook
+According to WEO-July 2023, global growth
+is expected to remain at 3.0% both in 2023
+and 2024, lower than 3.5% in 2022. While
+the forecast for 2023 is modestly higher
+than predicted (2.8% for 2023) in the April
+2023-WEO. The rise in central bank policy
+rates to fight inflation continues to weigh on
+economic activity. The growth in advanced
+economies would decline from 2.7% in 2022
+to 1.5% in 2023 and remain restrained at
+1.4% in 2024. The Euro area is still
+recovering from war induced rise in gas
+price - would deteriorate profoundly. On the
+contrary, emerging markets and developing
+economies is forecasted to grow by 4.1% in
+AUGUST- 2023
+
+1
+
+M O N T H LY E C O N O M I C U P D AT E & O U T L O O K
+
+2023 and 2024 from 3.1% in 2022. Global
+inflation is projected to decline from 8.7
+percent in 2022 to 6.8% in 2023 and 5.2%
+in 2024.
+The Fed has raised the federal funds rate
+by 5.25 percentage points since March
+2022, with policymakers approving rate
+increases at 11 of the last 12 meetings in a
+sequence of actions meant to discourage
+borrowing and spending, and slow both the
+economy and the pace of price increases.
+CPI rose at a 3.2% annual rate in July,
+which was a slight increase over June's 3%.
+But underlying price trends showed
+continued slowing.
+According to Federal Reserve Bank of New
+York's July 2023 “Survey of Consumer
+Expectations”, illustrates that median
+inflation expectations decreased across all
+three horizons, declining to 3.5% at the
+short-term horizon, 2.9%at the medium and
+long term horizons. Year-ahead price
+growth expectation for food, medical care
+and rent declined to their lowest levels since
+early 2021. Households' perceptions about
+their current financial situations and
+expectations for the future improved.
+After second quarter, outlook for US
+economy for 2023 has improved. Both JP
+Morgan and Bank of America raises US
+economic growth estimate-no longer
+expects 2023 recession. GDP growth will
+grow by 2.0%, up from a previous forecast
+value of 1.5%. US economy grew faster
+than expected in the second quarter as a
+resilient labor market supported consumer
+spending, while businesses boosted
+investment in equipment and built more
+factories. This also reflected through growth
+in WEI which is currently moving around
+2.0% (Fig-1).
+The J. P. Morgan Global Composite Output
+Index decreased to 51.7 in July 2023, from
+52.7 in June 2023. The global economic
+growth eases at start of third quarter as
+slowdown in new orders continues. The rate
+of expansion in output and new orders
+weakened, as manufacturers sector
+contraction was accompanied by a further
+slowdown at service providers.
+
+Fig-1: Growth in WEI (%)
+
+3.27
+
+1.42
+
+Source: Federal Reserve Bank of New York
+
+Fig-2 (a): Composite Leading Indicator
+
+UK
+
+US
+
+China
+
+Source: OECD
+
+Fig-2 (b): Composite Leading Indicator
+
+France
+
+Itlay
+
+Germany
+
+Source: OECD
+
+AUGUST- 2023
+
+2
+
+M O N T H LY E C O N O M I C U P D AT E & O U T L O O K
+
+Within PMI data, China, UK, and US shows
+moderate expansion in output for the month
+of July against deterioration observed in
+eurozone. This growth pattern also reflected
+through CLI position of Pakistan's main
+exports market for July-2023 (Fig-2).
+The FAO food prices index (FFPI) averaged
+123.9 points in July 2023, up by 1.5 points
+from June. The rebound decline in July was
+driven by a significant increase in the price
+indices for vegetable oils, partially offset by
+a considerable decline in the sugar along
+with a marginal reduction in cereals, dairy
+and meat.
+Global commodity prices soared in July
+2023. Energy prices increased by 6 percent,
+led by natural gas U.S 17 percent and oil
+7.8 percent. Non-energy prices rose by 0.7
+percent. Food prices gained 0.9 percent.
+Beverage eased by 1.8 percent while raw
+materials changed little. Fertilizer prices
+soared 5.3 percent. Metal price increased
+0.4 percent led by tin 5.6 percent. Precious
+metal rose by 0.9 percent.
+
+Rs
+
+Performance
+of Pakistan’s
+Economy
+
+2.1Real Sector
+2.1-a Agriculture
+According to Pakistan Cotton Ginners'
+Association (PCGA), the cotton arrivals in
+factories reached to 2.12 million bales
+(Punjab: 0.64 million bales & Sindh: 1.48
+million bales) as on 15th August 2023.The
+improved & pest resilient quality seeds of
+cotton has been used both in Punjab and
+Sindh which will contribute to achieve
+current year's target of 12.77 million bales.
+To develop agriculture sector, under Kissan
+package government is providing subsidy
+for interest-free loans for subsistence
+farmers in flood affected areas, PM's Youth
+Business and Agriculture Loan Scheme
+(PMYBALS), Markup Subsidy & Risk
+Sharing scheme for Farm Mechanization
+(MSRSSFM), and Interest Free Loans to
+subsistence farmers in the flood affected
+areas.
+
+During July FY2024, the agriculture credit
+disbursement recorded at Rs 151 billion as
+compared to Rs 112 billion last year
+showing increase of 35.1 percent. During
+July 2023, Urea offtake was recorded at
+629 thousand tonnes showing an increase
+of 36.0 percent while DAP offtake stood at
+113 thousand tonnes; increased by 67.7
+percent over July 2022.
+
+2.1-b Manufacturing
+LSM witnessed a decline of 10.26 percent
+during FY2023 due to supply chain
+disruptions, inflationary pressures and
+resultant hike in input prices, and continued
+contractionary policy stance at the domestic
+level to correct the imbalances. On a YoY
+basis, LSM nosedived by 14.96 percent in
+June 2023 and while on MoM basis, it
+inched up by 0.98 percent. During the
+period, 4 sectors witnessed positive growth
+which includes, Wearing apparel, Leather
+Products, Furniture, and others (Football).
+In July FY2024, the performance of autoindustry remains subdued due to massive
+increases in inputs prices, and tightening
+auto finance. Car production and sale
+decreased by 75.7percent and 64.3percent,
+while Trucks & Buses production and sale
+decreased by 72.3 percent and
+28.8percent, respectively.
+The sale of petroleum products declined by
+6 percent in July FY2024 to 1.35 mn tons
+against 1.44 mn tons in the same period
+last year. While on MoM basis, it remained
+stable.
+Fig-3: LSM Growth Rates (%)
+
+Source: PBS
+
+AUGUST- 2023
+
+3
+
+M O N T H LY E C O N O M I C U P D AT E & O U T L O O K
+
+Total cement dispatches bounced back with
+the growth of 57.44percentin July FY2024,
+and reached to 3.212 mn tons against the
+period of last year. Local cement sales by
+the industry reached at 2.776 mn tons in
+July 2023, a substantial growth of 47.26
+percent from the last year. Whereas exports
+also witnessed a healthy increase of 183.9
+percent from 153,517 tons to 435,854 tons
+during the same period.
+
+Fig-4: FBR Tax Collection (Rs. bn) (Jul FY24)
+
+2.2 Inflation
+CPI inflation increased to 28.3 percent on
+YoY basis in July 2023 as compared to 24.9
+percent in July 2022 whereas it reached to
+29.4 percent in the previous month.
+On MoM basis, it increased to 3.5 percent in
+July 2023 compared to a decrease of 0.3
+percent in the previous month. The nonperishable items and perishable items
+increased by 3.9 percent and 5.6 percent
+respectively on MoM basis. Similarly, the
+increase observed in Housing, water,
+electricity, gas & fuels 8.0 percent, Health
+2.2 percent, Furnishing & Household
+equipment maintenance 1.7 percent,
+Restaurant & Hotels 1.7 percent and
+Clothing & Footwear 0.6 percent. However,
+the only decline observed in Transport 0.2
+percent.
+st
+
+The SPI for the week ended on 31 August
+2023, recorded an increase of 0.54 percent
+as compared to previous week. Prices of 08
+items declined, 23 items remained stable
+and 20 items increased.
+
+2.3 Fiscal
+The fiscal year 2023 witnessed a significant
+rise in total expenditure that grew by 21.5
+percent to Rs.16155 billion against
+Rs.13295 billion in FY2022. Higher
+expenditures were realized mainly due to a
+26.6 percent increase in current spending.
+In absolute terms, it stood at Rs.14583
+billion in FY2023 against Rs.11521 billion
+recorded in FY2022. The increase in current
+expenditure is largely attributed to 83.2
+percent rise in markup payments while nonmarkup spending was restricted to 5
+percent. Development expenditure grew by
+17.1 percent largely due to a 62.8 percent
+
+FY2024
+
+FY2023
+Source: FBR
+
+rise in federal PSDP during FY2023.
+On the revenue side, total revenues grew
+by 19.9 percent to reach Rs.9634 billion in
+FY2023 from Rs.8035 billion in FY2022.
+Within total, tax revenues (federal and
+provincial) grew by 15.7 to Rs.7819 billion in
+FY2023 as compared to Rs.6755 billion in
+FY2022. During FY2023, FBR tax collection
+grew by 16.7 percent to Rs.7169 billion
+against Rs.6143 billion in the same period
+of last year. According to the latest available
+data, in Jul FY2024, FBR tax collection not
+only grew by 17.5 percent but also
+surpassed the collection target by Rs.4
+billion. Within total tax collection, revenues
+from domestic taxes grew by 19 percent
+while from customs duty 9 percent growth
+has been registered.
+On the other hand, FY2023 registered a
+significant rise in non-tax collection largely
+attributed to higher receipts from petroleum
+levy followed by markup (PSEs & others)
+and Royalties on oil/gas. Overall, non-tax
+collection grew by 42 percent to Rs.1815
+billion in FY2023 against Rs.1280 billion in
+FY2022.
+Thus, FY2023 witnessed a fiscal deficit of
+7.7 percent of GDP (Rs.6521 billion) against
+7.9 percent of GDP (Rs.5260 billion) in the
+last year. Similarly, the primary deficit was
+restricted to 0.8 percent of GDP in FY2023
+against 3.1 percent of GDP recorded in
+FY2022 mainly due to limited growth in nonmarkup spending.
+
+AUGUST- 2023
+
+4
+
+M O N T H LY E C O N O M I C U P D AT E & O U T L O O K
+
+Fig-5: Fiscal Indicators % of GDP (Jul-Jun)
+
+Fiscal Deﬁcit
+
+Primary Deﬁcit
+
+FY2023
+
+FY2022
+
+2.4 Monetary
+MPC has maintained the policy rate at 22
+st
+percent, decision held on 31 July, 2023.
+The decision is based on improved
+economic certainty, external sector stability,
+investor confidence, expected lagged
+impact of the accumulated monetary
+tightening, budgeted fiscal consolidation,
+and the tepid growth outlook for FY2024.
+st
+
+th
+
+During the period 01 – 28 July, FY2024
+money supply (M2) shows negative growth
+of 2.0 percent (Rs. -641.7 billion) compared
+negative growth of 1.5 percent (Rs. -405.5
+billion) in last year. Within M2, NFA
+increased by Rs 368.6 billion as compared
+decrease of Rs. 599.0 billion in last year.
+Whereas NDA of the banking sector
+decreased by Rs. 1010.2 billion as
+compared an increase of Rs. 193.5 billion
+last year. Private Sector has retired Rs.
+172.6 billion as compared borrowing of Rs.
+151.9 billion in last year.
+
+2.5 External Sector
+The Current Account posted a deficit of $
+809 million for July FY2024 as against a
+deficit of $ 1.3 billion last year, largely
+reflecting an improvement in trade balance.
+Exports on fob declined by 4.6 percent
+during July FY2024 and reached $ 2.1
+billion ($ 2.2 billion last year). Imports on fob
+declined by 23.5 percent during July
+FY2024 and reached $ 4.2 billion ($ 5.5
+billion last year). Resultantly the trade deficit
+(July FY2024) reached to $ 2.1 billion as
+
+against $ 3.3 billion last year.
+Exports in Services during July FY2024
+increased by 2.3 percent to $ 538 million as
+against $ 526 million. The imports in
+services increased by 45.3 percent to $ 811
+million as compared to $ 558 million same
+period last year. The trade deficit in services
+stood at $ 273 million as against $ 32
+million last year.
+As per PBS, during July FY 2024, exports
+stood at $ 2.1 billion ($ 2.3 billion last year),
+declined by 8.1 percent. The major export
+commodities which have shown positive
+growth during the review period include Fish
+& Fish Preparation (27.2 percent in quantity
+& 2.2 percent in value), Fruits (29.5 percent
+in quantity & 4.6 percent in value), Cotton
+Yarn (37.8 percent in quantity& 36.0 percent
+in value), Plastic Materials (176.2 percent in
+quantity & 64.8 percent in value) and
+pharmaceutical products (144.3 percent in
+quantity & 8.9 percent in value).
+
+2.5.1 Foreign Investment
+FDI reached $ 87.7 million during JulyFY2024 ($ 74.8 million last year) increased
+by 17.3 percent. FDI received from China $
+18.0 million (20.5 percent), Hong Kong $
+16.9 million (19.2 percent), Netherland $
+12.1 million (13.8 percent) and Switzerland
+$ 10.1 million (11.5 percent of total FDI).
+Power sector attracted highest FDI of $ 45.1
+million (51.4 percent of total FDI), Oil & Gas
+Explorations $ 15.2 million (17.3 percent),
+and communication $ 8.0 million (9.1
+percent).
+Foreign Private Portfolio Investment has
+registered a net inflow of $ 16.3 million
+during July FY2024. Foreign Public Portfolio
+Investment recorded a net inflow of $ 6.0
+million. The total foreign portfolio investment
+recorded an inflow of $ 22.3 million during
+July FY2024 as against an outflow of 13.9
+million last. Total foreign investment during
+July FY2024 recorded an inflow of $ 110.0
+million as against $ 60.9 million last year.
+
+2.5.2 Worker's Remittances
+In July FY2024, workers' remittances
+recorded at $ 2.0 billion ($ 2.5 billion last
+year), decreased by 19.3 percent, due to
+
+AUGUST- 2023
+
+5
+
+M O N T H LY E C O N O M I C U P D AT E & O U T L O O K
+
+several reasons included: seasonal factors
+post-Eid decline, political and economic
+uncertainty. MoM, remittances decreased
+by 7.3 percent in July 2023 ($ 2.0 billion) as
+compared to June 2023 ($ 2.2 billion).
+Share of remittances (July FY2024) Saudi
+Arabia remained 24.0 percent ($ 486.7
+million), U.A.E 15.5 percent ($ 315.1
+million), U.K 15.1 percent ($ 305.7 million),
+USA 11.7 percent ($ 238.1 million), other
+GCC countries 11.3 percent ($ 228.3
+million), EU 14.0 percent ($ 283.6 million),
+Canada 1.8 percent ($ 36.9 million), and
+other countries 6.5 percent ($ 132.4 million).
+The decline is also attributed to global
+economic slowdown as higher inflation in
+developed countries has led to higher cost
+of living abroad, thus reducing the surplus
+funds that could be sent back to homeland
+as remittances.
+
+Fig-6: Trend of Major World Standardized Indices
+
+Source: PSX, Investing.com
+Note: All indices are standardized to 100 on the
+initial day of the sample taken in this ﬁgure.
+
+471 billion record budget for FY2024
+which included Rs 361.5 billion for
+Benazir Kafaalat Programme, covering
+9.3 million families, Rs 32.27 billion for
+Benazir Nashonuma Programme
+covering 1.5 million individuals, Rs
+55.4 billion for Benazir Taleemi Wazaif
+which would benefit 9.2 million
+children.
+
+2.5.3 Foreign Exchange Reserves
+Pakistan's total liquid foreign exchange
+reserves increased to $ 13.1 billion on
+August 29, 2023, as with the SBP's
+reserves raise significantly to $ 7.8 billion
+and Commercial banks' reserves remained
+at $ 5.3 billion.
+
+2.6 Performance of KSE Index
+The Pakistan Stock Exchange (PSX)
+performed remarkably well in the month of
+July 2023. The benchmark of PSX KSE-100
+index crossed 48,000 points mark after 2
+st
+years closed at 48,035 points as on 31 July
+2023, gained 6,582 points in a single
+month. Similarly, market capitalization of
+PSX gained Rs 863 billion in the month of
+July and settled at Rs 7,232 billion.
+During June-July 2023, the major world
+stock market indices remained positive. The
+KSE-100 index increased by 16.4 percent
+(Fig-6), S&P 500 of U.S (8.7 percent),
+Sensex 30 of India (6.6 percent), CAC 40 of
+France (5.0 percent) and SSE Composite of
+China (2.7 percent).
+
+2.7 Social Sector
+
+§
+
+In a significant development towards
+empowering women and enhancing
+social protection measures, BISP's
+Board in its 60th meeting approved Rs
+
+§
+
+In addition, 6.0 billion have been
+earmarked for Benazir Scholarships for
+Undergraduates.
+
+§
+
+PPAF through its 24 Partner
+Organizations has disbursed 31,636
+interest free loans amounting to Rs
+1.40 billion during the month of July,
+2023. Since inception of interest free
+loan component, a total of 2,434,133
+interest free loans amounting to Rs
+90.91 billion have been disbursed to
+the borrowers.
+
+§
+
+Council of Common Interest (CCI) has
+approved the results of First Ever
+Digital Census of Pakistan in its 50th
+meeting on 5th August, 2023.
+
+§
+
+According to the results of 7th
+Population and Housing Census-2023
+Pakistan's population has reached at
+241.49 million with a growth rate of
+2.55%. The percentage of the rural
+population in the country is 61.18 %
+(147.75 million) while urban is 38.82%
+AUGUST- 2023
+
+6
+
+M O N T H LY E C O N O M I C U P D AT E & O U T L O O K
+
+(93.75 million).
+
+§
+
+Bureau of Emigration and Overseas
+Employment has registered 54865
+workers during July, 2023 for overseas
+employment in different countries.
+
+§
+
+Under Prime Minister Youth Business
+& Agriculture Loan Scheme the
+government has disbursed Rs. 22,546
+million till May, 2023 to 45,129
+beneficiaries for business and for
+Agriculture purpose.
+
+Rs
+
+Economic
+Outlook
+
+3.1 Inflation
+The international commodity price outlook is
+promising and is expected to offset the
+negative impact of local currency
+depreciation in Pakistan and help lower the
+pressure on imported commodities' prices.
+Moreover, the FAO Food Price Index, which
+tracks international prices of the most
+globally traded food commodities, stood at
+123.9 points in July 2023, showing a
+decrease of 11.8 percent as compared to
+July 2022. Four of the FAO's five food subindices - cereals, meat, dairy, and vegetable
+oils - recorded a decline of 14.5 percent, 5.1
+percent, 20.6 percent, and 23.1 percent,
+respectively, which would be instrumental to
+ease out domestic prices.
+Domestically, the high base effect would
+provide a little solace to inflation growth
+however, the two massive fuel price hikes
+witnessed in the month of August 2023 and
+upward adjustment in energy tariffs, would
+strain the inflationary pressures in the
+coming months. Nevertheless, the expected
+lagged impact of accumulated monetary
+tightening, fiscal consolidation efforts of the
+government and better growth outlook
+would help easing out inflationary pressures
+in later half of FY 2024.
+In view of above, inflation is anticipated to
+remain around 29 to 31 percent in August
+2023. The two times raise in fuel prices
+
+drives a broad-based increase by impacting
+the transportation cost.
+
+3.2 Agriculture
+The extension of Kissan Package-2022 will
+certainly have positive impact on agriculture
+sector which in turn raise the livelihood of
+the farmers and it will contribute in
+achieving the targeted growth for FY2024.
+
+3.3 Industrial activity
+The LSM cycle usually follows the cyclical
+movements in the main trading partners, but
+since it is focused on the main industrial
+sectors and not on total GDP, it is
+somewhat more volatile than the cyclical
+component of GDP in Pakistan's main
+export markets. The aggregate CLI in the
+main export markets remained relatively
+stable showing no significant upward
+movement. As expected, the cyclical LSM
+pattern in the month of June remained
+negative due to the high base effect and
+deterred economic environment. However,
+for the month of July, the pressure is
+expected to ease out on the back of
+significant rebound in cement dispatches
+indicating a rise in construction activities
+and the removal of import restrictions.
+Fig-7: Relationship between CLI and LSM cycle
+
+Source: PBS, OECD and EAW Calcula ons
+
+3.4 Overall Economic Activity
+The Monthly Economic Indicator (MEI) is
+developed as a tool to distribute the past
+annual GDP numbers, as reported by the
+PBS, on a monthly/quarterly basis, and to
+
+AUGUST- 2023
+
+7
+
+M O N T H LY E C O N O M I C U P D AT E & O U T L O O K
+
+nowcast on that same frequency GDP
+growth for the FY in which the National
+Accounts are not yet available. Fig-8
+presents the MEI on a monthly basis since
+January 2019. It should be noted that some
+of the data underlying the July MEI are still
+provisional and may be revised next month.
+The MEI calculated for July 2023 shows the
+revival of economic fundamentals, as it
+recorded positive growth after Feb-2023. It
+lays the foundation of inclusive growth and
+is expected to be positive throughout the
+current fiscal to achieve the targeted growth
+of 3.5 percent.
+Fig-8: Monthly Economic Indicator (MEI)
+19.4
+
+-9.4
+
+Source: EA Wing’s Calculation
+
+3.5 External
+BoP data for the month of July-FY2024
+shows that exports of goods and services
+continued to observe last year's trend and
+declined by 3.2 and 1.4 percent,
+respectively, on YoY and MoM basis.
+However, imports have changed their
+behavior after lifting the restriction, which
+increased by 29.8 percent on MoM basis in
+the month of July-FY2024. This has been
+translated in trade deficit of goods and
+services, widened from $1.18 billion in June
+2023 to $ 2.4 billion in July 2023. Similarly,
+remittances decreased by 19.3 and 7.3
+percent on YoY and MoM basis
+respectively. As a result, the current
+account turns to deficit of $ 809 million
+against surplus of $ 504 million in June
+2023.
+
+For the outlook, imports will gradually
+increase in next months, to increase in
+economic activities. However, exports are
+facing both global and domestic headwinds
+which may hinder growth in coming months.
+Taking other factors into account, current
+account will remain around the same level
+observed in July 2023.
+
+3.6 Fiscal
+The fiscal sector remained under significant
+pressure during FY2023 due to various
+factors. On the expenditure side, massive
+floods raised expenditure needs for urgent
+relief and rehabilitation activities.
+Additionally, an increase in the policy rate
+triggered higher markup payments, putting
+pressure on overall expenditures. On the
+revenue side, the import compression policy
+during FY2023 substantially reduced the
+revenues from import-related taxes.
+Furthermore, a considerable decline in LSM
+caused overall industrial activity to
+deteriorate. All these factors collectively
+took a significant toll on overall tax
+collection. Consequently, the fiscal deficit
+has been recorded at 7.7 percent of GDP
+considerably high from its level set in
+budget 2022-23.
+Going forward, in FY2024, the budget
+strategy 2023-24 prioritized fiscal
+consolidation effort to meet the existing
+challenges on both revenue and
+expenditure sides. The objective is to
+achieve a primary surplus of 0.4 percent
+and reduce the fiscal deficit to 6.5 percent
+of GDP in FY2024. To achieve these
+targets the priorities are geared towards
+effective resource mobilization through
+various tax measures and expenditure
+control by adopting austerity measures.
+While pursuing fiscal consolidation, the
+government is committed to safeguarding
+vulnerable segments of society by
+expanding social safety nets and ensuring
+targeted subsidies. These measures would
+be supportive in mitigating the effect of
+policy changes for lower-income individuals.
+
+3.7 Final Remarks
+In FY2023, external sector stabilized as
+current account deficit contained to $ 2.4
+
+AUGUST- 2023
+
+8
+
+M O N T H LY E C O N O M I C U P D AT E & O U T L O O K
+
+billion against $ 17.5 billion in FY2022. On
+the other hand, fiscal sector remained under
+tremendous pressure and fiscal deficit
+reached to 7.7 percent of GDP. Similarly
+industrial activity suppressed as LSM
+observed negative growth of 10.26 percent.
+Despite this, higher and inclusive growth
+target of 3.5 percent for FY2024 with some
+facilitation measures have commenced
+
+some dividends in July 2023 and FY2024
+started with some encouraging signs and
+expectations - MEI observed positive
+growth after Feb-2023.
+However, economy still confronting both
+global and domestic challenges. At global
+level, tight monetary policy stance will
+continue to address the problem of inflation.
+
+AUGUST- 2023
+
+9
+
+31st August 2023
+
+ECONOMIC INDICATORS
+Remi ances ($ bn)
+
+Exports FOB ($ bn)
+
+Imports FOB ($ bn)
+
+Current Account Deﬁcit ($ bn)
+
+Source: SBP
+FDI ($ mn)
+
+Total Foreign Investment ($ mn)
+
+Source: FBR & Budget Wing
+FBR Revenue (Rs.bn)
+
+Non-Tax Revenue (Rs.bn)
+
+Source: SBP
+
+PSDP (Rs.bn)
+
+Agriculture Credit (Provisional)
+
+PSX Index
+
+Market Capitaliza on (Rs. bn)
+
+Market Capitaliza on ($ bn)
+
+* : Formerly Karachi Stock Exchange (KSE)
+
+Source: PBS, PSX & SECP
+
+AUGUST- 2023
+
+10
+
+
